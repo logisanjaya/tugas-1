@@ -1,0 +1,2 @@
+Nama = Logi Sanjaya
+Nim  = 201402007 
